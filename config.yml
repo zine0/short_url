@@ -1,0 +1,13 @@
+redis:
+  addr: "127.0.0.1:6379"
+  password: "zineyu"
+
+pgsql:
+  addr: "127.0.0.1:5432"
+  username: "zineyu"
+  password: "zineyu"
+  db: "database"
+
+
+app: 
+  host: "127.0.0.1:8080"
